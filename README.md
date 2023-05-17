@@ -35,6 +35,6 @@ Created API's for an online bookstore that enables users to browse, view, and 
 
 5. Run the main file to start api
 
-    uvicorn app:app --reload
+    uvicorn main:app --reload
 
 
