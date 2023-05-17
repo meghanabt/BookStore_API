@@ -24,6 +24,8 @@ Created API's for an online bookstore that enables users to browse, view, and 
     windows: venv\Scripts\activate
     
     linux: venv/bin/activate
+    
+    mac: source env/bin/activate
 
 3. Install requirements
 
