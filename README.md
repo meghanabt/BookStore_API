@@ -14,19 +14,24 @@ Created API's for an online bookstore that enables users to browse, view, and 
 **Steps to run the API:**
 
 1. create a virtual environment
+
 python -m venv venv
 
 2. Enter virtual environment
+
 windows: venv\Scripts\activate
 linux: venv/bin/activate
 
 3. Install requirements
+
 pip install -r requirements.txt
 
 4. Set up mongoDB create database and collection
+
 runpython mongo.py
 
 5. Run the main file to start api
+
 uvicorn app:app --reload
 
 
