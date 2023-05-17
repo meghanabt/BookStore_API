@@ -20,6 +20,7 @@ Created API's for an online bookstore that enables users to browse, view, and 
 2. Enter virtual environment
 
     windows: venv\Scripts\activate
+    
     linux: venv/bin/activate
 
 3. Install requirements
