@@ -1,4 +1,4 @@
-# FastAPI
+# FastAPI & Mongo-DB Setup Manual
 **Team Members:**
 
 Meghana Bodapati Thirumalanaidu - 885206029
